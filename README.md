@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on Node Js based Applications and AWS Services<br>🌱 I’m currently learning about React Native<br>⚡ Fun fact, I love to keep my code organized 🤣
+🔭 I'm currently deep in the trenches, crafting Node.js powered applications while wielding the mighty tools of AWS services<br>🌱 I'm currently immersing myself in the world of AWS services, unlocking their potential and mastering their intricacies<br>⚡ Here's a little secret 🤫 I thrive on keeping my code organized. It's like conducting a symphony of efficiency in the digital realm 🤣
 
 
 ## 🌐 Socials:
